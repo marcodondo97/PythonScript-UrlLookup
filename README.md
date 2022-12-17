@@ -27,3 +27,6 @@ pip install python-whois
 pip install webtech
 
 ```
+<h2> Images </h2>
+<img src="screenshot/screenshot1.png" width="80%"/>
+Screenshot
