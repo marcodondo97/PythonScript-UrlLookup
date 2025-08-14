@@ -1,4 +1,4 @@
-# PythonScript-UrlLookup
+# Urllookup Python script
 Python script to scan URL, get informtion about domain and website's technologies/languages.
 
 <h2> Description </h2>
