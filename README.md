@@ -16,6 +16,7 @@ This python script can be used for scan any URL and get the following infromatio
 
 The URL/domain to scan has to be written inline in the CLI as the example below
 
+## Getting Started
 
 ```
 #example passing url/domain inline python 
